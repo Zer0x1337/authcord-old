@@ -1,5 +1,5 @@
 This version is depricated and simple.
 
-Latest:
+Latest: https://authcord.xyz/
 
-https://www.youtube.com/@authcord
+
