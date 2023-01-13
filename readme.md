@@ -1,9 +1,5 @@
-Discord auth (hwid/login) system for your applications
+This version is depricated and simple.
 
-## V2
- - Added GUI to loader/client side
- - Updated server/host GUI
- - Fixed some major bugs
+Latest:
 
-
-V1 on nulled.to and some other forums if you want to check that out.
+https://www.youtube.com/@authcord
