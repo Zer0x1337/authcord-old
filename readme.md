@@ -1,5 +1,5 @@
-This version is depricated and simple.
+This version is depricated, insecure and crashes often. Use at your own risk!
 
-Latest: https://authcord.xyz/
+If you want to see the latest SECURE go to: https://authcord.xyz/
 
 
